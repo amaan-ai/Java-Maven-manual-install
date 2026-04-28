@@ -1,6 +1,6 @@
 # Java Maven Installation guide
 
-This document gives infomration on installing software tools with IDE VSCode that are needed to run **Watson Code Assistant**
+This document gives infomration on installing Java & Maven
 
 
 ## Environment setup 
